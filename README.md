@@ -8,3 +8,4 @@
 02-02-25 : Added assignment 8 about class const. access mods
 04-02-25 : Added assignment 9 about this,sealed,static
 06-02-25 : Added assignment 10 about object modeling and class sequence object diagrams 
+07-02-25 : Added assignement 11 with 3 codes on inheritance
