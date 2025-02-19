@@ -17,3 +17,4 @@
 16-02-25 : Added assignment 16 about binary , linear search and file reader  
 17-02-25 : Added assignment 17 about algorithms and runtime analysis
 18-02-25 : Added assignement 18 about generic class 
+19-02-25 : Added assignment 19 about collections
