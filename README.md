@@ -18,3 +18,4 @@
 17-02-25 : Added assignment 17 about algorithms and runtime analysis
 18-02-25 : Added assignement 18 about generic class 
 19-02-25 : Added assignment 19 about collections
+20-02-25 : Added assignment 20 about streams in C#
