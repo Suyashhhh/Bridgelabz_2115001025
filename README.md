@@ -19,4 +19,5 @@
 18-02-25 : Added assignement 18 about generic class 
 19-02-25 : Added assignment 19 about collections
 20-02-25 : Added assignment 20 about streams in C#
-21-02-25 : Added assignment 21 abot exception handling 
+21-02-25 : Added assignment 21 about exception handling 
+22-02-25 : Added Assignment 22 about NUNIT test cases and regex problems 
