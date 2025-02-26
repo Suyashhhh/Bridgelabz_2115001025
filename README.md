@@ -23,3 +23,4 @@
 22-02-25 : Added Assignment 22 about NUNIT test cases and regex problems 
 24-02-25 : Added assignment 23 about annotation and refection 
 25-02-25 : Added assignment 24 about working with csv files
+26-02-25 : Added assignment 25 about json programs
